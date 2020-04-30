@@ -1,0 +1,11 @@
+Nome: Elton Riva Moura Lima
+Telefone: 071 996469564
+E-mail: notleamil@hotmail.com
+
+Obs.: Prezados, acredito que não tenha entendido direito em alguns pontos da especificação desenvolvida por vocês.
+Contudo, acredito que não tive dúvidas ao implementar a atividade conforme solicitado.
+Por fim, estou modificando a estrutura do projeto e realizando apenas a parte backend com API REST.
+
+Obs 2.: Gerado Swagger UI de documentação da atividade
+
+URL - http://localhost:8081/swagger-ui.html 
